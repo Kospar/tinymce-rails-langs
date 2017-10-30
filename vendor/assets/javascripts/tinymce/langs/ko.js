@@ -215,5 +215,14 @@ tinymce.addI18n('ko',{
 "Tools": "\ub3c4\uad6c",
 "View": "\ubcf4\uae30",
 "Table": "\ud45c",
-"Format": "\ud615\uc2dd"
+"Format": "\ud615\uc2dd",
+'Insert an image from your computer': '이미지 삽입',
+'Insert image': "이미지 삽입",
+'Choose an image': "이미지 선택",
+'You must choose a file': "삽입할 이미지를 선택해주세요.",
+'Got a bad response from the server': "서버 에러",
+"Didn't get a response from the server": "서버 에러",
+'Insert': "삽입",
+'Cancel': "취소",
+'Image description': "이미지 설명"
 });
