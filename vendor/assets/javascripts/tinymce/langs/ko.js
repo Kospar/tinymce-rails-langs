@@ -84,6 +84,8 @@ tinymce.addI18n('ko',{
 "Horizontal line": "\uac00\ub85c \uc904",
 "Horizontal space": "\uac00\ub85c \uac04\uaca9",
 "Insert\/edit image": "\uc774\ubbf8\uc9c0 \uc0bd\uc785\/\ud3b8\uc9d1",
+"Insert\/Edit code sample": "프로그래밍 코드 입력",
+"Language" : "프로그래밍 언어 선택",
 "General": "\uc77c\ubc18",
 "Advanced": "\uace0\uae09",
 "Source": "\uc18c\uc2a4",
